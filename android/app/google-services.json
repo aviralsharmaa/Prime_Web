@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "409739229465",
+      "project_id": "prime-web-6dfaf",
+      "storage_bucket": "prime-web-6dfaf.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:409739229465:android:84329ab3ae6247965f6d88",
+          "android_client_info": {
+            "package_name": "com.mothering.social"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "409739229465-qohn2fben1uci15nfn76haaghvb5b0n2.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCw44qpTLRaGH5ZFJQVh-W1eqXBAPoeyM8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "409739229465-qohn2fben1uci15nfn76haaghvb5b0n2.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
