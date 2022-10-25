@@ -1,39 +1,115 @@
 {
-    "project_info": {
-      "project_number": "409739229465",
-      "project_id": "prime-web-6dfaf",
-      "storage_bucket": "prime-web-6dfaf.appspot.com"
-    },
-    "client": [
-      {
-        "client_info": {
-          "mobilesdk_app_id": "1:409739229465:android:84329ab3ae6247965f6d88",
-          "android_client_info": {
-            "package_name": "com.mothering.social"
+  "project_info": {
+    "project_number": "499373690708",
+    "project_id": "mothering-social-new",
+    "storage_bucket": "mothering-social-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499373690708:android:626b251af172bf355802c1",
+        "android_client_info": {
+          "package_name": "com.mothering.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499373690708-a1ip29nmnnhu08olersjkf4ovn8hv9nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mothering.social",
+            "certificate_hash": "339629bed623336472d51cd780dc9b4449cfa934"
           }
         },
-        "oauth_client": [
-          {
-            "client_id": "409739229465-qohn2fben1uci15nfn76haaghvb5b0n2.apps.googleusercontent.com",
-            "client_type": 3
+        {
+          "client_id": "499373690708-l3troj7nrnv104n1uti4k0a6tvjlgh38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mothering.social",
+            "certificate_hash": "55505662a18a6204e8741499f9390402c7fb79ee"
           }
-        ],
-        "api_key": [
-          {
-            "current_key": "AIzaSyCw44qpTLRaGH5ZFJQVh-W1eqXBAPoeyM8"
+        },
+        {
+          "client_id": "499373690708-ndbsbhdv322m235ok9phs9k4ibv8ncpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mothering.social",
+            "certificate_hash": "f376647e19b2060df321c3d8530097075e3f352e"
           }
-        ],
-        "services": {
-          "appinvite_service": {
-            "other_platform_oauth_client": [
-              {
-                "client_id": "409739229465-qohn2fben1uci15nfn76haaghvb5b0n2.apps.googleusercontent.com",
-                "client_type": 3
+        },
+        {
+          "client_id": "499373690708-m30hqms2acht2hj2njthimt3ouprlnfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3KXmR226eikgiuC6N2gk5LmTgBT0oxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499373690708-m30hqms2acht2hj2njthimt3ouprlnfc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499373690708-rbi83bd0knemcru4077tma9fmt3oaepc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mothering.social"
               }
-            ]
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5844030808838740~6167600717"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499373690708:android:8286ce020182b2b75802c1",
+        "android_client_info": {
+          "package_name": "com.shr.flutter_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499373690708-a4ji0b0k8a5v2o9li7iu3b09r6loeh2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shr.flutter_social",
+            "certificate_hash": "339629bed623336472d51cd780dc9b4449cfa934"
           }
+        },
+        {
+          "client_id": "499373690708-m30hqms2acht2hj2njthimt3ouprlnfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3KXmR226eikgiuC6N2gk5LmTgBT0oxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499373690708-m30hqms2acht2hj2njthimt3ouprlnfc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499373690708-rbi83bd0knemcru4077tma9fmt3oaepc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mothering.social"
+              }
+            }
+          ]
         }
       }
-    ],
-    "configuration_version": "1"
-  }
+    }
+  ],
+  "configuration_version": "1"
+}
